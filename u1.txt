@@ -1,0 +1,8 @@
+root
+admin
+guest
+user
+support
+operator
+monitor
+User

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<Putty>
+		<Node Type="0" Expanded="1">
+			<DisplayName>ipbrick</DisplayName>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>84.1.102.106</DisplayName>
+				<ServerName>84.1.102.106</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>operator</UserName>
+				<Password>w009BT9dYj/BEKhTHju2iA==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>84.1.102.106 -ssh -P 22 -l operator -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>84.1.159.64</DisplayName>
+				<ServerName>84.1.159.64</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>operator</UserName>
+				<Password>GBTgn4vD5rr6Qm8P/gEhuQ==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>84.1.159.64 -ssh -P 22 -l operator -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>58.69.1.50</DisplayName>
+				<ServerName>58.69.1.50</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>operator</UserName>
+				<Password>k2oXmo0okkuHtbIv4Fy9Wg==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>58.69.1.50 -ssh -P 22 -l operator -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+		</Node>
+		<Node Type="0" Expanded="1">
+			<DisplayName>against servers not working</DisplayName>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.64.107.46 russia</DisplayName>
+				<ServerName>80.64.107.46</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>0</Port>
+				<UserName>mmk</UserName>
+				<Password>Vl8hTLwFBVg=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.64.107.46  -l mmk -pw ***** -ssh</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.64.107.47 russia</DisplayName>
+				<ServerName>80.64.107.47</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>0</Port>
+				<UserName>mmk</UserName>
+				<Password>Yl2VeOgQmGo=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.64.107.47  -l mmk -pw ***** -ssh</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.64.107.49 russia</DisplayName>
+				<ServerName>80.64.107.49</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>0</Port>
+				<UserName>mmk</UserName>
+				<Password>DwA0J4xA/9E=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.64.107.49  -l mmk -pw ***** -ssh</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.64.107.50 russia</DisplayName>
+				<ServerName>80.64.107.50</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>0</Port>
+				<UserName>mmk</UserName>
+				<Password>e6rWcpj8Avc=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.64.107.50  -l mmk -pw ***** -ssh</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>217.250.192.22 germany</DisplayName>
+				<ServerName>217.250.192.22</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>6Ijc8m/sVco=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>217.250.192.22 -ssh -l root -pw ***** -P 22</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+		</Node>
+		<Node Type="0" Expanded="1">
+			<DisplayName>svmap.py</DisplayName>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.211.224.127 italy</DisplayName>
+				<ServerName>80.211.224.127</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>0</Port>
+				<UserName>root</UserName>
+				<Password>xGc/1njqEtYY53yuqye8nQ==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.211.224.127  -l root -pw ***** -ssh</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.211.138.4 denmark</DisplayName>
+				<ServerName>80.211.138.4</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>PfOuSMU+buqHBX79CACptA==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.211.138.4 -l root -ssh -P 22 -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.211.229.183 denmark</DisplayName>
+				<ServerName>80.211.229.183</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>IX6ZS3SjBFJemUDjnUYS9w==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.211.229.183 -ssh -P 22 -l root -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.211.232.30 denmark</DisplayName>
+				<ServerName>80.211.232.30</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>OZYMEu6ns+oevT+qIAdBhg==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.211.232.30 -ssh -P 22 -l root -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>80.211.226.227 denmark</DisplayName>
+				<ServerName>80.211.226.227</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>Oe90lDr7MkQInFm4SQBnGQ==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>80.211.226.227 -ssh -P 22 -l root -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+		</Node>
+		<Node Type="0" Expanded="1">
+			<DisplayName>germany super</DisplayName>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>217.61.104.18 germany</DisplayName>
+				<ServerName>217.61.104.18</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>root</UserName>
+				<Password>WFB+98Yqeh/iOeOEfCYxxQ==</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>217.61.104.18 -ssh -P 22 -l root -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+		</Node>
+		<Node Type="0" Expanded="1">
+			<DisplayName>goautodial</DisplayName>
+			<Node Type="1">
+				<SavedSession>Default Settings</SavedSession>
+				<DisplayName>116.0.44.162</DisplayName>
+				<ServerName>116.0.44.162</ServerName>
+				<PuttyConType>4</PuttyConType>
+				<Port>22</Port>
+				<UserName>cron</UserName>
+				<Password>bZOapKyGWlY=</Password>
+				<PasswordDelay>0</PasswordDelay>
+				<CLParams>116.0.44.162 -ssh -P 22 -l cron -pw *****</CLParams>
+				<ScriptDelay>0</ScriptDelay>
+			</Node>
+		</Node>
+	</Putty>
+</Servers>

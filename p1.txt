@@ -1,0 +1,17 @@
+support
+user
+operator
+admin
+root
+User
+
+guest
+1234
+12345
+123456
+1234567
+12345678
+monitor
+password
+@password
+p@ssw0rd
